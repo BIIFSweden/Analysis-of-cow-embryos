@@ -1,5 +1,4 @@
-# YlvaSjunnesson2017-1
-Analysis of cow embryos
+# YlvaSjunnesson2017-1 Analysis of cow embryos
 ## Project description
 For the last decades a concern has been raised that female fertility is declining – more than could be explained by the fact that we choose to have children later in life and possible genetic effects. Subfertility – and infertility – is a devastating experience for those who are affected and as the subject is also somewhat of a taboo – the numbers affected are most likely higher than perceived among the general public. In our environment, we are continuously exposed to a number of exogenous chemicals, originating from industries, agriculture and other. As many of these chemicals show persistence and are very bio-accumulative, they will concentrate higher up in the food-chain, in both wildlife and humans. Many of the chemicals are new – and have yet not been investigated regarding their full toxicological potential.
 ### Perfluorononanoic acid (PFNA)
