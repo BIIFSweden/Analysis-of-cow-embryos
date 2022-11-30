@@ -14,11 +14,11 @@ The macros and plugins needed for the code is provided in the current repository
 
 |Component|Available at|Description|
 |---------|------------|-----------|
-|Fiji     |            |           |
-|PerObjectEllipsefit 3D_ (ImageJ)|http://Imagej.ner/software/Fiji/downloads|ImageJ, many useful plugins included
-|SizeIntervalPrecision_|http://cb.uu.se/~petter/downloads/POE|Adaptive per object thresholding
-|BioFormats_plugin-6.5.1|https://www.cb.uu.se/~petter/downloads/SIP/|
-|_3DLabelObjects_.class|https://www.openmicroscopy.org/bio-formats/|http://Imagej.net/formats/bio-formats
+|Fiji     |http://Imagej.ner/software/Fiji/downloads|ImageJ, many useful plugins included
+|PerObjectEllipsefit 3D_ (ImageJ)|http://cb.uu.se/~petter/downloads/POE|Adaptive per object thresholding
+|SizeIntervalPrecision_|https://www.cb.uu.se/~petter/downloads/SIP/|
+|BioFormats_plugin-6.5.1|https://www.openmicroscopy.org/bio-formats/|http://Imagej.net/formats/bio-formats
+|_3DLabelObjects_.class|GitHub repository (CLASS-file)|
 |_3DLabelMaxVal_.class|GitHub repository (CLASS-file)|
 |analysis3D_IterativePOEplusrestPercentile_MaskNuclei_190722_PFHXS.ijm|GitHub repository (IJM-file)|Code for cell count/size analysis
 |analysis3D_SIP_IterativePOE_Apoptosis_.ijm|GitHub repository (IJM-file)|Code for fluorophores overlapping.
