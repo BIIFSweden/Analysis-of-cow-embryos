@@ -25,6 +25,7 @@ The macros and plugins needed for the code is provided in the current repository
 |PerObjectEllipsefit 3D_ (ImageJ)|http://cb.uu.se/~petter/downloads/POE|Adaptive per object thresholding
 |SizeIntervalPrecision_|https://www.cb.uu.se/~petter/downloads/SIP/|
 |BioFormats_plugin-6.5.1|https://www.openmicroscopy.org/bio-formats/|http://Imagej.net/formats/bio-formats
+|3D ImageJ Suite|https://imagej.net/plugins/3d-imagej-suite/
 |_3DLabelObjects_.class|GitHub repository (CLASS-file)|
 |_3DLabelMaxVal_.class|GitHub repository (CLASS-file)|
 |analysis3D_IterativePOEplusrestPercentile_MaskNuclei_190722_PFHXS.ijm|GitHub repository (IJM-file)|Code for cell count/size analysis
