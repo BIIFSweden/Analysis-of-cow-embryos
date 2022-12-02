@@ -28,9 +28,9 @@ The macros and plugins needed for the code is provided in the current repository
 |3D ImageJ Suite|https://imagej.net/plugins/3d-imagej-suite/
 |_3DLabelObjects_.class|GitHub repository (CLASS-file)|
 |_3DLabelMaxVal_.class|GitHub repository (CLASS-file)|
+|FrequencyNoBkg_.jar|GitHub repository|
 |analysis3D_IterativePOEplusrestPercentile_MaskNuclei_190722_PFHXS.ijm|GitHub repository (IJM-file)|Code for cell count/size analysis
 |analysis3D_SIP_IterativePOE_Apoptosis_.ijm|GitHub repository (IJM-file)|Code for fluorophores overlapping.
-|FrequencyNoBkg_.jar"|GitHub repository (IJM-file)|
 
 ## Installation
 
