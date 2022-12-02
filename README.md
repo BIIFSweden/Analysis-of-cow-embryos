@@ -15,7 +15,7 @@ This ImageJ tool enables systematic image analyses to evaluate mammalian embryos
   <i> Figure 1. Example image showing a day 8 bovine blastocyst stained with flourophores to detect nuclei (blue channel) and lipids (green channel). A: Nuclei channel of a single confocal plane, B: lipid channel, single confocal plane, C: 3D stack created with all z-planes merged and D: output image from using the presented code (analysis3D_IterativePOEplusrestPercentile_MaskNuclei_190722_PFHXS.ijm). Image adapted from https://doi.org/10.1016/j.reprotox.2022.02.004 </i>
 </p>
 
-## Requirements
+## Requirements and Installation
 
 The macros and plugins needed for the code is provided in the current repository or referred to the original webpage. We recommend using Fiji for ImageJ with an addition of BioFormats for handling the confocal imaging. The following list provide details on macros needed and the code provided in the repository.
 
@@ -32,7 +32,7 @@ The macros and plugins needed for the code is provided in the current repository
 |analysis3D_IterativePOEplusrestPercentile_MaskNuclei_190722_PFHXS.ijm|GitHub repository (IJM-file)|Code for cell count/size analysis
 |analysis3D_SIP_IterativePOE_Apoptosis_.ijm|GitHub repository (IJM-file)|Code for fluorophores overlapping.
 
-## Installation
+To install the tool, download FIJI and the required macros/plugins listed above. Next, open FIJI and install the plugins using <i> Plugins > Install </i> in the Toolbar and restart FIJI.
 
 ## Running the tool
 
