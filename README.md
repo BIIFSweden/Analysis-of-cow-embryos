@@ -8,7 +8,13 @@ This ImageJ tool enables systematic image analyses to evaluate mammalian embryos
 - Lipid droplet count in blastocysts (amount of lipid droplets) 
 - Lipid droplet volume (average lipid droplet volume and estimation of total lipid volume in each embryo)
 
-## Example of usage
+## Tool explanation
+
+In the original Per Object Ellipsefit (POE), a threshold is set to optimize the ellipse fit of an object, given that it fulfils the input criteria (minimum and maximum diameter). The segmentation method has been developed as a 2D version but is also available in 3D. A drawback with this method arise when brighter objects are touching darker objects. The threshold might then be optimized for the brighter object and may therefore not include the darker object at all. To overcome this challenge, an iterative version of the POE was developed. After the segmentation, the resulting mask are kept as a “seed” (containing the segmented objects but eroded two pixels). After this, the segmented objects are masked from the raw image by turning all identified voxels in objects black. The segmentation will then be repeated on the raw image and the mask will be merged with the previously segmented objects while the “seed” is merged with the previous “seed” image. These steps will be repeated until no more objects are segmented. The objects in the resulting merged mask can then be separated using the 3D Watershed Split function in ImageJ (the combined mask: input, the combined “seed”: seed). The nuclei and the lipids are then segmented by applying a global grey-level threshold based on object size (SizeIntervalPrecision_) and subsequent watershed function (3D Watershed split function). 
+
+Object number and specifics (volume, position) are collected. Objects identified in two channels (such as an apoptotic nucleus which will be labelled both as a nucleus and apoptotic) can be identified to separately detect nuclei positive for apoptotic label. 
+
+
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/43760657/204838109-891b0b43-cb86-49fe-8702-178441cd7746.svg">
   
