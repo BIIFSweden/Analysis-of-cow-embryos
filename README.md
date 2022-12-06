@@ -17,7 +17,7 @@ This ImageJ tool enables systematic image analyses to evaluate mammalian embryos
 
 ## Requirements and Installation
 
-The macros and plugins needed for the code is provided in the current repository or referred to the original webpage. We recommend using Fiji for ImageJ with an addition of BioFormats for handling the confocal imaging. The following list provide details on macros needed and the code provided in the repository.
+The macros and plugins needed for the code is provided in the current repository (Plugins folder) or referred to the original webpage. We recommend using Fiji for ImageJ with an addition of BioFormats for handling the confocal imaging. The following list provide details on macros needed and the code provided in the repository.
 
 |Component|Available at|Description|
 |---------|------------|-----------|
@@ -36,7 +36,7 @@ To install the tool, download FIJI and the required macros/plugins listed above.
 
 ## Running the tool
 
-Drag and drop the macro that will be used to the Fiji window [*.ijm-file, se above]. Insert relevant information into the dialog box. You will be asked to provide “selected image regular expression” (.*czi is prewritten, but change to .* or .*tiff depending on file format). Target voxel size (x,y) is based on the size of the images (see image setting when capturing the images). Target voxel size (z) is the distance between each section (for example 2, if 2 µm distance between z-scans are used). You will also be asked to provide minimum and maximum diameter of nuclei and lipid droplets. A standard setting is provided, but this may be changed upon validation. Provide information on input (raw images) and output (result documents and images) folder and run the macro using the group of embryos selected for validation. 
+Drag and drop the macro from the Scripts folder that will be used to the Fiji window [*.ijm-file, se above]. Insert relevant information into the dialog box. You will be asked to provide “selected image regular expression” (.*czi is prewritten, but change to .* or .*tiff depending on file format). Target voxel size (x,y) is based on the size of the images (see image setting when capturing the images). Target voxel size (z) is the distance between each section (for example 2, if 2 µm distance between z-scans are used). You will also be asked to provide minimum and maximum diameter of nuclei and lipid droplets. A standard setting is provided, but this may be changed upon validation. Provide information on input (raw images) and output (result documents and images) folder and run the macro using the group of embryos selected for validation. 
 
 ![Ida1](https://user-images.githubusercontent.com/43760657/204838153-c3d3feba-1581-4556-b7b8-a09e0ddfcce5.svg)
 
