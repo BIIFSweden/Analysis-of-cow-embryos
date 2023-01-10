@@ -57,7 +57,7 @@ Hallberg, I. Persson, S, Olovsson, M., Moberg, M., Ranefall, P., Laskowski, D., 
   
 Hallberg, I., Persson, S., Olovsson., M., Sirard, MA., Damdimopoulou, P., Rüegg, J., Sjunnesson, YCB. (2021). “Perfluorooctane sulfonate (PFOS) exposure of bovine oocytes affects early embryonic development at human-relevant levels in an in vitro model”. Toxicology. 464. Dec 2021. 153028. https://doi.org/10.1016/j.tox.2021.153028 
 
-Leqlercq A., Sjunnesson, Y. & Hallberg, I., ”Occurrence of late-apoptotic symptoms in porcine ex vivo-fertilized embryos upon exposure of oocytes to perfluoroalkyl substances (PFASs) under the conditions of in vitro meiotic maturation” [submitted manuscript]
+Leqlercq A., Sjunnesson, Y. & Hallberg, I., ”Occurrence of late-apoptotic symptoms in porcine ex vivo-fertilized embryos upon exposure of oocytes to perfluoroalkyl substances (PFASs) under the conditions of in vitro meiotic maturation”, https://doi.org/10.1371/journal.pone.0279551.
   
 </i>
   
