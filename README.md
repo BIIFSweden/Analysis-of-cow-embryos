@@ -1,4 +1,4 @@
-# YlvaSjunnesson2017-1 Analysis of cow embryos
+# Analysis of cow embryos
   
 ## Synopsis
 
@@ -63,7 +63,7 @@ Leqlercq A., Sjunnesson, Y. & Hallberg, I., ”Occurrence of late-apoptotic symp
   
 ## Acknowledgements
   
-This project has support from the Nils Lagerlöfs fund (KSLA GFS2021-0031) and the BioImage Informatics Facility, a unit of the National Bioinformatics Infrastructure Sweden NBIS, with funding from SciLifeLab, National Microscopy Infrastructure NMI (VR-RFI 2019-00217), and the Chan-Zuckerberg Initiative.
+This project has support from the Nils Lagerlöfs fund (KSLA GFS2021-0031) and the BioImage Informatics Facility ([YlvaSjunnesson2017-1](https://biifsweden.github.io/projects/2017/01/19/YlvaSjunnesson2017-1/)), a unit of the National Bioinformatics Infrastructure Sweden NBIS, with funding from SciLifeLab, National Microscopy Infrastructure NMI (VR-RFI 2019-00217), and the Chan-Zuckerberg Initiative.
 
 ## License
 To be added if made public.
